@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\garkus\patterns\algo\Math.hpp(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\garkus\patterns\algo\Graph.hpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\garkus\patterns\algo\Graph.hpp(276): warning C4018: '<': signed/unsigned mismatch
+c:\users\garkus\patterns\algo\Graph.hpp(308): warning C4018: '<': signed/unsigned mismatch
+c:\users\garkus\patterns\algo\Graph.hpp(373): warning C4018: '<': signed/unsigned mismatch
+c:\users\garkus\patterns\algo\Graph.hpp(375): warning C4018: '<': signed/unsigned mismatch
+  Algo.vcxproj -> C:\Users\garkus\Patterns\Debug\Algo.exe
+  Algo.vcxproj -> C:\Users\garkus\Patterns\Debug\Algo.pdb (Full PDB)

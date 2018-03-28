@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\garkus\patterns\cpp\bytes.hpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\garkus\patterns\cpp\bytes.hpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\garkus\patterns\cpp\objectcreation.hpp(54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\garkus\patterns\cpp\bbg.hpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\garkus\patterns\cpp\bbg.hpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\garkus\patterns\cpp\bbg.hpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\garkus\patterns\cpp\bbg.hpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\garkus\patterns\cpp\float.hpp(13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\garkus\patterns\cpp\float.hpp(20): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(178): note: see declaration of 'strerror'
+c:\users\garkus\patterns\cpp\main.cpp(21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: see declaration of '_sleep'
+c:\users\garkus\patterns\cpp\main.cpp(27): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: see declaration of '_sleep'
+  CPP.vcxproj -> C:\Users\garkus\Patterns\Debug\CPP.exe
+  CPP.vcxproj -> C:\Users\garkus\Patterns\Debug\CPP.pdb (Full PDB)
